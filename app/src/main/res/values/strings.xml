@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="testKnowledge">Test your knowledge of Animals!</string>
+    <string name="question1">How many Hearts Does an Octopus Have?</string>
+    <string name="question2">Is a Dolphin a mammal?</string>
+    <string name="question3">Which of The Following a Lion Can Eat?</string>
+    <string name="yesOption">Yes</string>
+    <string name="noOption">No</string>
+    <string name="question3Option1">An Old Shoe</string>
+    <string name="question3Option2">A Buffalo</string>
+    <string name="question3Option3">A Wild Boar</string>
+    <string name="question3Option4">A Big Mac With Extra Sauce</string>
+    <string name="question3Option5">A Zebra</string>
+    <string name="question4">Can a Polar Bear Swim?</string>
+    <string name="question5">Which of The Following Can Fly ?</string>
+    <string name="question5Option1">Owl</string>
+    <string name="question5Option2">Penguin</string>
+    <string name="question5Option3">Parrot</string>
+    <string name="question5Option4">Ostrich</string>
+    <string name="question5Option5">Pigeon</string>
+    <string name="editableFieldHint">Your answer here</string>
+    <string name="question6">How Many Eyes Does a Crow Have?</string>
+    <string name="question6Option1">3 Eyes</string>
+    <string name="question6Option2">2 Eyes</string>
+    <string name="question6Option3">4 Eyes</string>
+    <string name="submit">submit</string>
+    <string name="checkAnswer">Check</string>
+</resources>
